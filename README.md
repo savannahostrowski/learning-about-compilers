@@ -1,7 +1,7 @@
 # Learning about Compilers/Interpreters/Programming Languages
 
 ## Resources
-- [ ] https://interpreterbook.com/ (in progress)
+- [ ] 🏃🏼‍♀️[[In Progress](https://github.com/savannahostrowski/go-interpreter)] Thorsten Ball's [Interpreter Book](https://interpreterbook.com/)
 - [ ] https://compilerbook.com/
 - [ ] https://createlang.rs/
 - [ ] https://suif.stanford.edu/dragonbook/
